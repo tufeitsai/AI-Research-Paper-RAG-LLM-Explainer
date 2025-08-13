@@ -15,17 +15,17 @@ It uses a local **LLaMA3** model (via Ollama) and integrates **FAISS** for vecto
 
 ---
 
-## 📂 Data Download
+## Data Download
 The processed data files (PDFs, embeddings, FAISS index) are too large for GitHub.  
 They are hosted on Google Drive and can be downloaded here:
 
-**[⬇️ Download Data Folder from Google Drive](<INSERT_GOOGLE_DRIVE_LINK_HERE>)**
+**[Download Data Folder from Google Drive](<INSERT_GOOGLE_DRIVE_LINK_HERE>)**
 
 After downloading, place the `data` folder in the project root before running any scripts.
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### 1 Clone the repository
 ```bash
