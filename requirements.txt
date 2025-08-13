@@ -1,0 +1,12 @@
+numpy
+pandas
+tqdm
+faiss-cpu
+pickle-mixin
+ollama
+requests
+nltk
+scikit-learn
+sentence-transformers
+transformers
+torch
